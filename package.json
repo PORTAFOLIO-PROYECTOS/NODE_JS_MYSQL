@@ -1,0 +1,19 @@
+{
+  "name": "node_js_mysql",
+  "version": "1.0.0",
+  "description": "Conexión entre nodejs con mysql para CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PORTAFOLIO-PROYECTOS/NODE_JS_MYSQL.git"
+  },
+  "author": "Hugo Roca - hugo.rock20@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PORTAFOLIO-PROYECTOS/NODE_JS_MYSQL/issues"
+  },
+  "homepage": "https://github.com/PORTAFOLIO-PROYECTOS/NODE_JS_MYSQL#readme"
+}
