@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PORTAFOLIO-PROYECTOS/NODE_JS_MYSQL/issues"
   },
-  "homepage": "https://github.com/PORTAFOLIO-PROYECTOS/NODE_JS_MYSQL#readme"
+  "homepage": "https://github.com/PORTAFOLIO-PROYECTOS/NODE_JS_MYSQL#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
